@@ -1,6 +1,7 @@
 # Projeto-Databricks
 Sistema de Gerenciamento de Banco de Dados, dedicado ao controle e análise abrangente de dados relacionados ao compartilhamento de bicicletas.
 
+
 # Descrição/Explicação do Código:
 Este repositório contém um projeto de sistema de gerenciamento de bike sharing, implementado em SQL. O objetivo do projeto é simular o funcionamento de um sistema de compartilhamento de bicicletas, registrando dados como data, estação, condições climáticas, e a quantidade de usuários casuais e registrados.
 
